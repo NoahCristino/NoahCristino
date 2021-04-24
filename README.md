@@ -16,6 +16,7 @@ My interests include:
 * Business
 * Elon Musk
 * Space & Physics
+* Chess
 
 ### 📫 Contact Info
 
