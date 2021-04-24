@@ -1,6 +1,8 @@
 ### 👋 Introduction
 
-![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/github/followers/NoahCristino?style=social) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/NoahCristino)![[twitter](https://twitter.com/NoahCristino)](https://badgen.net/twitter/follow/NoahCristino)
+![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/NoahCristino)
+
+![](https://img.shields.io/github/followers/NoahCristino?style=social) ![twitter](https://img.shields.io/twitter/follow/NoahCristino?style=social)
 
 Hello my name is **Noah Cristino**. I am currently studying Computer Science at **TBD** University. 
 
