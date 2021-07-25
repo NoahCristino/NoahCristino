@@ -4,9 +4,9 @@
 
 ![](https://img.shields.io/github/followers/NoahCristino?style=social) ![twitter](https://img.shields.io/twitter/follow/NoahCristino?style=social)
 
-Hello my name is **Noah Cristino**. I am currently studying Computer Science at **The University of Toronto** University. 
+Hello my name is **Noah Cristino**. I am currently studying Computer Science at **The University of Toronto**. 
 
-I plan to graduate in May 2025 with an Honours Bachelor of Science in Computer Science.
+I plan to graduate in 2025 with an Honours Bachelor of Science in Computer Science.
 
 My favorite programming languages are **Python**, **JavaScript**, and **PHP**.
 
