@@ -4,7 +4,7 @@
 
 ![](https://img.shields.io/github/followers/NoahCristino?style=social) ![twitter](https://img.shields.io/twitter/follow/NoahCristino?style=social)
 
-Hello my name is **Noah Cristino**. I am currently studying Computer Science at **TBD** University. 
+Hello my name is **Noah Cristino**. I am currently studying Computer Science at **The University of Toronto** University. 
 
 I plan to graduate in May 2025 with an Honours Bachelor of Science in Computer Science.
 
@@ -20,7 +20,7 @@ My interests include:
 
 ### 📫 Contact Info
 
-[Instagram][-1] | [Twitter][0] | ✉️ [Email](mailto:cristinon@protonmail.com) | 💬 [Issue](https://github.com/NoahCristino/NoahCristino/issues/me) 
+[Instagram][-1] | [Twitter][0] | ✉️ [Email](mailto:noah.cristino@mail.utoronto.ca) | 💬 [Issue](https://github.com/NoahCristino/NoahCristino/issues/me) 
 
 Feel free to contact me for:
 * Potential Job Offers/Internships
