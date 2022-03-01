@@ -12,11 +12,9 @@ My favorite programming languages are **Python**, **JavaScript**, and **PHP**.
 
 My interests include:
 * Artificial Intelligence
+* Coding
 * Finance
 * Business
-* Elon Musk
-* Space & Physics
-* Chess
 
 ### 📫 Contact Info
 
