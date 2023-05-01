@@ -1,33 +1,5 @@
-### 👋 Introduction
+Hello 👋
 
-![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/NoahCristino)
+My name is Noah Cristino. I am a Software Engineer committed to building reliable 🧑‍🔧, scalable 📈, and efficient 🚀 software in order to help bridge the gap between innovation💡and execution 👨🏻‍💻.
 
-![](https://img.shields.io/github/followers/NoahCristino?style=social) ![twitter](https://img.shields.io/twitter/follow/NoahCristino?style=social)
-
-Hello my name is **Noah Cristino**. I am currently studying Computer Science at **The University of Toronto**. 
-
-I plan to graduate in 2025 with an Honours Bachelor of Science in Computer Science.
-
-My favorite programming languages are **Python**, **JavaScript**, and **PHP**.
-
-My interests include:
-* Artificial Intelligence
-* Coding
-* Finance
-* Business
-
-### 📫 Contact Info
-
-[Instagram][-1] | [Twitter][0] | ✉️ [Email](mailto:noah.cristino@mail.utoronto.ca) | 💬 [Issue](https://github.com/NoahCristino/NoahCristino/issues/me) 
-
-Feel free to contact me for:
-* Potential Job Offers/Internships
-* Contributing to my projects
-* Fun
-
-### 💻 Open Source Work Stats
-
-![Noah Cristino's Github stats](https://github-readme-stats.vercel.app/api?username=NoahCristino&show_icons=true)
-
-[-1]: https://www.instagram.com/noahcristino
-[0]: https://twitter.com/NoahCristino
+In my freetime I work on my startup 🤖, write technical articles 📝, and self-study AI 📚. Most of my personal work focuses on leveraging the power of AI🕵️‍♂️ and natural language processing 💬 to understand human emotions and sentiment 😁😐😢. I am also interested in how these systems can be efficiently deployed ☁️ for use in real world applications 🌎.
